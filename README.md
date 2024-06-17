@@ -32,7 +32,7 @@ This project involves hosting a dynamic web application on AWS using various AWS
 ## Architecture Overview
 The architecture leverages multiple AWS services to deploy a dynamic web application in a highly available, scalable, and secure environment. Key components include VPC, ECS, RDS, ALB, Auto Scaling Group, and more, distributed across multiple Availability Zones.
 
-![Reference Diagram](path/to/reference-diagram.png)
+![Reference Diagram](Architecture_WebApp_on_ECS_3tier_vpc.png)
 
 ## Prerequisites
 - AWS account
