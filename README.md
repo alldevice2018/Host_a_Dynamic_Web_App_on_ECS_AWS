@@ -1,8 +1,8 @@
+![Alt text](/Architecture_WebApp_on_ECS_3tier_vpc.png)
+
 # Dynamic Web App Deployment on AWS
 
 This project involves hosting a dynamic web application on AWS using various AWS services and resources to ensure reliability, scalability, and security. Below is a comprehensive guide detailing the steps and components used in the deployment process.
-
-![Alt text](/Architecture_WebApp_on_ECS_3tier_vpc.png)
 
 ## Table of Contents
 1. [Architecture Overview](#architecture-overview)
