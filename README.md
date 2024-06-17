@@ -1,6 +1,3 @@
-# Host_a_Dynamic_Web_App_on_ECS_AWS
-This project outlines the steps involved in hosting a dynamic web application on AWS using the ECS service
-
 # Dynamic Web App Deployment on AWS
 
 This project involves hosting a dynamic web application on AWS using various AWS services and resources to ensure reliability, scalability, and security. Below is a comprehensive guide detailing the steps and components used in the deployment process.
