@@ -3,9 +3,10 @@
 This project involves hosting a dynamic web application on AWS using various AWS services and resources to ensure reliability, scalability, and security. Below is a comprehensive guide detailing the steps and components used in the deployment process.
 
 ## Table of Contents
-1. [Architecture Overview](![Alt text](/Architecture_WebApp_on_ECS_3tier_vpc.png))   
-2. [Prerequisites](#prerequisites)
-3. [Setup Guide](#setup-guide)
+1. [Architecture Overview]
+2. (![Alt text](/Architecture_WebApp_on_ECS_3tier_vpc.png)  
+3. [Prerequisites](#prerequisites)
+4. [Setup Guide](#setup-guide)
     1. [Configure Virtual Private Cloud (VPC)](#configure-virtual-private-cloud-vpc)
     2. [Deploy Internet Gateway](#deploy-internet-gateway)
     3. [Establish Security Groups](#establish-security-groups)
@@ -25,7 +26,7 @@ This project involves hosting a dynamic web application on AWS using various AWS
     17. [Create HTTPS Listener](#create-https-listener)
     18. [Register Domain Name](#register-domain-name)
     19. [Configure SNS](#configure-sns)
-4. [Conclusion](#conclusion)
+5. [Conclusion](#conclusion)
 
 ## Architecture Overview
 The architecture leverages multiple AWS services to deploy a dynamic web application in a highly available, scalable, and secure environment. Key components include VPC, ECS, RDS, ALB, Auto Scaling Group, and more, distributed across multiple Availability Zones.
